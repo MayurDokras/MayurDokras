@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MayurDokras
-- 👀 I’m interested in Flutter Development
-- 🌱 I’m currently learning Flutter and AWS
+- 👀 I’m interested in Fullsyack Application Development
+- 🌱 I’m currently learning laravel
 - 💞️ I’m looking to collaborate on App Developers like me, new in Flutter Development
 - 📫 How to reach me @mayurdokras2404@gmail.com
 
